@@ -67,4 +67,4 @@ L'autore **non si assume alcuna responsabilità** per eventuali danni causati da
 
 ---
 
-### 🗓️ 16/03/2025 | **Eslam Anter**
+### 16/03/2025 | **Eslam Anter**
