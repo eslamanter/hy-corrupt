@@ -22,7 +22,7 @@ All'avvio dell'applicazione, tramite la finestra dei comandi, ti verrà richiest
      ```plaintext
      XXXX_GEN_PLA_03_A
      XXXX_TRA_SEZ_02_B
-     XXXX_STR_REL_01_C    12800
+     XXXX_STR_REL_01_C    12864
      ```
 
 3. **Risultati**:
