@@ -20,17 +20,17 @@ All'avvio dell'applicazione, tramite la finestra dei comandi, ti verrà richiest
    - Puoi opzionalmente indicare la dimensione in KB (1 MB = 1024 KB), separata da una **tabulazione**.
    - Esempio:
      ```plaintext
-     XXXX_GEN_PLA_01_A
-     XXXX_TRA_SEZ_03_C
-     XXXX_STR_REL_03_C    12800
+     XXXX_GEN_PLA_03_A
+     XXXX_TRA_SEZ_02_B
+     XXXX_STR_REL_01_C    12800
      ```
 
 3. **Risultati**:
    - Per ogni file, verrà mostrato un messaggio di conferma:
      ```plaintext
-     XXXX_GEN_PLA_01_A [creato] corrotto con successo.
-     XXXX_TRA_SEZ_03_C [esistente] corrotto con successo.
-     XXXX_STR_REL_03_C [creato] corrotto con successo.
+     XXXX_GEN_PLA_03_A [creato] corrotto con successo.
+     XXXX_TRA_SEZ_02_B [esistente] corrotto con successo.
+     XXXX_STR_REL_01_C [creato] corrotto con successo.
      ```
 
 ---
