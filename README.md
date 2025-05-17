@@ -1,7 +1,7 @@
-# HYcorrupt
+# Kcorrupt
 
 ## 📄 Cos'è?
-**HYcorrupt** è un tool creato per **corrompere file PDF** e **generare PDF corrotti** con dimensioni controllate.
+**Korrupt** è un tool creato per **corrompere file PDF** e **generare PDF corrotti** con dimensioni controllate.
 
 ---
 
